@@ -11,6 +11,10 @@ exports = async function(arg){
   var collName = "coll_name";
 
   // Get a collection from the context
+  // Get a collection from the context
+  // Get a collection from the context
+  // Get a collection from the context
+  // Get a collection from the context
   var collection = context.services.get(serviceName).db(dbName).collection(collName);
 
   var findResult;
